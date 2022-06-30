@@ -1,0 +1,28 @@
+body{
+background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+
+}
+
+#start, #status, #numer_of_objects{
+    font-size: 18px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: blue;
+    bottom: 0%;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
+
+#object_name{
+    width: 30%;
+}
